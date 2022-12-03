@@ -1,0 +1,9 @@
+#space {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding-top: 64px;
+  padding-bottom: 983px;
+  background: #000000 url("../img/bg/BG3.png") no-repeat center top / cover;
+  z-index: 0;
+}
